@@ -10,19 +10,18 @@ metadata:
   title: ''
   publisher: {}
   description: Nos interventions
-dateModified: '2016-08-23T10:18:09.127Z'
+dateModified: '2016-08-23T10:19:48.138Z'
 title: ''
-datePublished: '2016-08-23T10:18:09.836Z'
+datePublished: '2016-08-23T10:19:48.784Z'
 author: []
 description: Nos interventions
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-nos-interventions.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: nos-interventions/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f761a806-01db-4d31-9ae5-941aa7b2191a.jpg)
