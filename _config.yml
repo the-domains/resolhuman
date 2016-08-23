@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.09040387207642198
 name: Resolhuman
 navigation:
-  - name: Thématiques
-    url: Nos Thématiques
-    type: external
   - name: Qui sommes nous
     url: Qui sommes nous
     type: external
