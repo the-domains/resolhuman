@@ -1,17 +1,16 @@
 ---
 description: Nos interventions
-dateModified: '2016-08-23T09:11:56.100Z'
-datePublished: '2016-08-23T09:35:02.400Z'
+dateModified: '2016-08-23T10:07:41.966Z'
+datePublished: '2016-08-23T10:07:42.467Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-nos-interventions.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: nos-interventions/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f761a806-01db-4d31-9ae5-941aa7b2191a.jpg)
