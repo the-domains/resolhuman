@@ -1,13 +1,13 @@
 ---
-description: Qui sommes nous ?
-dateModified: '2016-08-23T09:25:35.424Z'
-datePublished: '2016-08-23T09:34:59.339Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-23T09:39:51.452Z'
 sourcePath: _posts/2016-08-23-qui-sommes-nous.md
+author: []
+via: {}
+dateModified: '2016-08-23T09:39:50.935Z'
+title: ''
+publisher: {}
+description: Qui sommes nous ?
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
