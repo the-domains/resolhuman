@@ -1,16 +1,28 @@
 ---
-description: Nos interventions
-dateModified: '2016-08-23T10:07:41.966Z'
-datePublished: '2016-08-23T10:07:42.467Z'
+id: 6e83fce5-68ee-4037-9d3a-a93519f286b1
+metadata:
+  datePublished: '2016-08-23T10:07:42.467Z'
+  sourcePath: _posts/2016-08-23-nos-interventions.md
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-08-23T10:07:42.467Z'
+  title: ''
+  publisher: {}
+  description: Nos interventions
+dateModified: '2016-08-23T10:18:09.127Z'
 title: ''
+datePublished: '2016-08-23T10:18:09.836Z'
 author: []
+description: Nos interventions
 publisher: {}
 via: {}
-sourcePath: _posts/2016-08-23-nos-interventions.md
-hasPage: true
 starred: false
-url: nos-interventions/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-23-nos-interventions.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f761a806-01db-4d31-9ae5-941aa7b2191a.jpg)
