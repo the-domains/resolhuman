@@ -10,19 +10,18 @@ metadata:
   title: ''
   publisher: {}
   description: Qui sommes nous ?
-dateModified: '2016-08-23T10:18:26.078Z'
+dateModified: '2016-08-23T10:20:34.312Z'
 title: ''
-datePublished: '2016-08-23T10:18:26.671Z'
+datePublished: '2016-08-23T10:20:35.032Z'
 author: []
 description: Qui sommes nous ?
 publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-08-23-qui-sommes-nous.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: true
+url: qui-sommes-nous/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b571c5b-a4a3-4bad-af1d-42bdd43b28fb.jpg)
