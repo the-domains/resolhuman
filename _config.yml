@@ -19,5 +19,8 @@ navigation:
   - name: Thématiques
     url: Nos Thématiques
     type: external
+  - name: Interventions
+    url: Nos interventions
+    type: external
 title: Resolhuman
 description: Transformation des entreprises et des organisations
