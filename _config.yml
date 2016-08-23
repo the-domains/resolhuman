@@ -16,5 +16,8 @@ navigation:
   - name: Qui sommes nous
     url: Qui sommes nous
     type: external
+  - name: Thématiques
+    url: Nos Thématiques
+    type: external
 title: Resolhuman
 description: Transformation des entreprises et des organisations
