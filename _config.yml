@@ -19,8 +19,5 @@ navigation:
   - name: Interventions
     id: 6e83fce5-68ee-4037-9d3a-a93519f286b1
     type: content
-  - name: Qui sommes nous ?
-    id: 279b9c5d-0b69-4bac-8b55-d104f682bbe7
-    type: content
 title: Resolhuman
 description: Transformation des entreprises et des organisations
