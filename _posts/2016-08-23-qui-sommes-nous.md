@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-23T10:04:34.362Z'
+datePublished: '2016-08-23T10:07:14.649Z'
 sourcePath: _posts/2016-08-23-qui-sommes-nous.md
 author: []
 via: {}
-dateModified: '2016-08-23T10:04:33.637Z'
+dateModified: '2016-08-23T10:07:14.001Z'
 title: ''
 publisher: {}
 description: Qui sommes nous ?
+hasPage: true
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: qui-sommes-nous/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b571c5b-a4a3-4bad-af1d-42bdd43b28fb.jpg)
