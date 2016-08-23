@@ -1,16 +1,28 @@
 ---
-datePublished: '2016-08-23T10:07:14.649Z'
-sourcePath: _posts/2016-08-23-qui-sommes-nous.md
-author: []
-via: {}
-dateModified: '2016-08-23T10:07:14.001Z'
+id: 279b9c5d-0b69-4bac-8b55-d104f682bbe7
+metadata:
+  datePublished: '2016-08-23T10:07:14.649Z'
+  sourcePath: _posts/2016-08-23-qui-sommes-nous.md
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-08-23T10:07:14.649Z'
+  title: ''
+  publisher: {}
+  description: Qui sommes nous ?
+dateModified: '2016-08-23T10:18:26.078Z'
 title: ''
-publisher: {}
+datePublished: '2016-08-23T10:18:26.671Z'
+author: []
 description: Qui sommes nous ?
-hasPage: true
+publisher: {}
+via: {}
 starred: true
-url: qui-sommes-nous/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-23-qui-sommes-nous.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b571c5b-a4a3-4bad-af1d-42bdd43b28fb.jpg)
