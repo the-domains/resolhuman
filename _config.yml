@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.09040387207642198
 name: Resolhuman
 navigation:
-  - name: Interventions
-    url: Nos interventions
-    type: external
   - name: Qui sommes nous
     id: 279b9c5d-0b69-4bac-8b55-d104f682bbe7
     type: content
