@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T09:39:51.452Z'
+datePublished: '2016-08-23T09:43:03.834Z'
 sourcePath: _posts/2016-08-23-qui-sommes-nous.md
 author: []
 via: {}
-dateModified: '2016-08-23T09:39:50.935Z'
+dateModified: '2016-08-23T09:43:03.331Z'
 title: ''
 publisher: {}
 description: Qui sommes nous ?
@@ -30,6 +30,7 @@ La prévention par le bien-être au travail
 Le dialogue social et la gestion des conflits
 
 Le traitement du burn-out
+![Philippe Beaufrère : Transformation des organisations](https://the-grid-user-content.s3-us-west-2.amazonaws.com/346c63cb-9437-439c-b4d6-62a2357d66fa.jpg)
 
 **Philippe Beaufrère : Transformation des organisations**
 
@@ -46,7 +47,7 @@ Accompagnement de la transformation dans la fonction publique et le monde associ
 - Relations dans l'équipe
 
 - Médiation conflit
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2da0bebf-1932-4ed5-a0c0-f2e41d4f5ecb.jpg)
+![Philippe Coudol : Transformation digitale](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2da0bebf-1932-4ed5-a0c0-f2e41d4f5ecb.jpg)
 
 **Philippe Coudol : Transformation digitale**
 
